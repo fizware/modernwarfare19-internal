@@ -22,10 +22,10 @@ FOV, UAV Etc
 - Option 2: Use The Cobalt Method - I Deleted Cobalt Source but Tobii Posted It Anyway
 
 
-
+{
 #define compressdick memcpy;
 #define putinyomouf strcpy;
-void cmd_buffer(const char* cmd) 
+void cmd_buffer(const char* cmd) }
 {
  
     char biggerdick[512];
@@ -37,9 +37,9 @@ void cmd_buffer(const char* cmd)
     compressdick(bigdick, biggerdick, sizeof(biggerdick));
  
 }
-cobalt::gscr_endlobby = find_pattern(NULL, xorstr_("B9 AD 0C 00 00 E8"));
+{cobalt::gscr_endlobby = find_pattern(NULL, xorstr_("B9 AD 0C 00 00 E8"));
 cobalt::axpartydisabanda = find_pattern(NULL, xorstr_("48 8D 15 ? ? ? ? E8 ? ? ? ? 01 BB ? ? ? ? B9 ? ? ? ? 48 83 C4 70"));
-
+}
 
 
 These Sigs Are For MW2 So Find Your Own MW19 Sigs Idc, Or Port The Cheat To MW2 (Will Be Posting A Ported Version For MW2 And MW3 When MW3 Comes out)
